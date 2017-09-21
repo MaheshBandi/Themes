@@ -1,12 +1,12 @@
 {
-  "name": "Create Foundries",
+  "name": "CreateFoundries",
   "version": "1.0.0",
-  "description": "Create Foundries",
+  "description": "CreateFoundries",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
   },
-  "author": "Mahesh Bandi",
+  "author": "MaheshBandi",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "4.0.0-beta",
